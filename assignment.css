@@ -31,8 +31,10 @@ h2.red-text{
     margin: 20%,30%;
     padding-left: 6%;
     padding-right: 4%;
+    font-family: lobster;
 }
 h3.red-text{
     color: green;
     font-family: monospace;
+    padding: auto;
 }
