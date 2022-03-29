@@ -18,3 +18,12 @@ p.lorem{
     padding-left: 5%;
     padding-right: 4%;
 }
+p.red-text{
+    color: red;
+}
+h2.red-text{
+    color: brown;
+    margin: 20%,30%;
+    padding-left: 6%;
+    padding-right: 4%;
+}
