@@ -24,10 +24,15 @@ p.red-text{
     padding-left: 6%;
     padding-right: 4%;
     font-size: 20px;
+    
 }
 h2.red-text{
     color: brown;
     margin: 20%,30%;
     padding-left: 6%;
     padding-right: 4%;
+}
+h3.red-text{
+    color: green;
+    font-family: monospace;
 }
